@@ -1,6 +1,6 @@
-## Victrola
+## I have an antiquated operating system
 
-Im way behind our time
+And I'm trying to time travel to the future
 
 <!--
 **reinaasalas/reinaasalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
