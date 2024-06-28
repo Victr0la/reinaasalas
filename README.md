@@ -1,6 +1,6 @@
 ## Victrola
 
-Im way behind my time
+Im way behind our time
 
 <!--
 **reinaasalas/reinaasalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
